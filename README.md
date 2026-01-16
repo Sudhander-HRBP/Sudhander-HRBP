@@ -1,78 +1,78 @@
 <div align="center">
 
-# Sudhander Rajendran
-### Strategic HR Business Partner | [cite_start]Strategic People Operations [cite: 3, 167]
+# <img src="https://raw.githubusercontent.com/mjameel/mjameel/main/wave.gif" width="30px"> Sudhander Rajendran
+### Strategic HR Business Partner | Strategic People Operations
 
-[![Email](https://img.shields.io/badge/Email-asudhander%40gmail.com-blue?style=for-the-badge&logo=gmail)](mailto:asudhander@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com)
-
----
+![](https://img.shields.io/badge/HR_BP-9+_Years_Experience-667eea?style=for-the-badge)
+![](https://img.shields.io/badge/Status-Reading_Masters-764ba2?style=for-the-badge)
 
 </div>
 
+---
+
 ### 📋 Profile Info
-[cite_start]Strategic HR Business Partner with **9+ years of experience** partnering with leadership teams to drive people strategy, organizational development, and performance outcomes[cite: 7, 8, 174]. [cite_start]Expert in advising senior stakeholders and managing remote/global teams[cite: 8, 172].
+[cite_start]Strategic HR Business Partner with **9+ years of experience** partnering with leadership teams to drive people strategy, organizational development, and performance outcomes[cite: 267]. [cite_start]Strong expertise in advising senior stakeholders, workforce planning, and translating business objectives into effective HR initiatives across remote and global teams[cite: 268].
 
 ---
 
-### 🛠 Skills & Expertise
-<table width="100%">
+### 🛠 Skills & Expertise (Design Layout)
+<table width="100%" border="0">
   <tr>
     <td width="33%" valign="top">
-      <strong>Strategic HR</strong><br>
-      - [cite_start]HR Business Partnering (95%) [cite: 192, 193]<br>
-      - [cite_start]Organizational Development (90%) [cite: 195, 196]<br>
-      - [cite_start]Stakeholder Management (92%) [cite: 197, 198]
+      <h4 style="color: #667eea;">Strategic HR</h4>
+      • HR Business Partnering (95%) <br>
+      • Organizational Development (90%) <br>
+      • Stakeholder Management (92%) <br>
+      • Workforce Planning (88%) [cite: 452, 453, 455, 457, 459]
     </td>
     <td width="33%" valign="top">
-      <strong>Talent Management</strong><br>
-      - Performance Management (93%) [cite: 202, 203]<br>
-      - Employee Engagement (90%) [cite: 204, 205]<br>
-      - Talent Acquisition (87%) [cite: 209, 210]
+      <h4 style="color: #667eea;">Talent Management</h4>
+      • Performance Management (93%) <br>
+      • Employee Engagement (90%) <br>
+      • Succession Planning (85%) <br>
+      • Talent Acquisition (87%) [cite: 461, 462, 464, 467, 469]
     </td>
     <td width="33%" valign="top">
-      <strong>HR Operations</strong><br>
-      - Policy & Compliance (94%) [cite: 212, 213]<br>
-      - HR Analytics (82%) [cite: 214, 215]<br>
-      - Payroll Management (90%) [cite: 219, 220]
+      <h4 style="color: #667eea;">HR Operations</h4>
+      • Policy & Compliance (94%) <br>
+      • HR Analytics (82%) <br>
+      • Change Management (88%) <br>
+      • Payroll Management (90%) [cite: 471, 472, 474, 476, 479]
     </td>
   </tr>
 </table>
 
 ---
 
-### 💼 Experience
-
-**HR Manager / Talent Acquisition** | [cite_start]*Alp Consulting Pvt Ltd* (2023 - Present) [cite: 10, 11, 12]
-* [cite_start]Partner with senior leaders to align HR strategy with business objectives[cite: 13, 180].
-* [cite_start]Advise on workforce planning and employee engagement[cite: 14, 181].
-* [cite_start]Analyze HR metrics (turnover, retention) to support decision-making[cite: 16, 181].
-
-**Assistant Manager Human Resources** | [cite_start]*Nithyo Infotech* (2020 - 2023) [cite: 17, 18, 19]
-* [cite_start]Supported managers on employee relations and performance improvement plans[cite: 20, 184].
-* [cite_start]Acted as HR advisor for operational leaders across multiple locations[cite: 23, 185].
-
-**Executive HR & Operation** | [cite_start]*DMS Software Engineering* (2017 - 2020) [cite: 24, 25, 26]
-* [cite_start]Managed monthly payroll for multinational and staff accounts[cite: 27, 188].
-* [cite_start]Handled statutory payments (EPF, ETF, APIT) and terminal benefits[cite: 31, 188, 189].
+### 💼 Work Experience
+* **HR Manager / Talent Acquisition** | [cite_start]*Alp Consulting Pvt Ltd* (2023 - Present) [cite: 271, 272]
+    * [cite_start]Partner with senior leaders to align HR strategy with business objectives[cite: 273].
+    * [cite_start]Lead performance management cycles and development planning[cite: 275].
+* **Assistant Manager Human Resources** | [cite_start]*Nithyo Infotech* (2020 - 2023) [cite: 277, 279]
+    * [cite_start]Supported managers on employee relations and performance improvement plans[cite: 280].
+    * [cite_start]Acted as HR advisor for operational leaders across multiple locations[cite: 283].
+* **Executive HR & Operation** | [cite_start]*DMS Software Engineering* (2017 - 2020) [cite: 284, 286]
+    * [cite_start]Responsible for processing monthly payroll for multinational and staff clients[cite: 287].
+    * [cite_start]Calculated statutory payments including EPF, ETF, and APIT[cite: 291].
 
 ---
 
 ### 🏆 Key Achievements
-* [cite_start]**Employee Retention Award:** Developed a process that led to a **15% increase** in retention rates over two years[cite: 59, 60, 175, 229].
-* [cite_start]**HR System Implementation:** Played a key role in transitioning to an online performance management system[cite: 61, 62, 232].
+* [cite_start]**Employee Retention Award:** Developed a process leading to a **15% increase** in retention rates over two years[cite: 319, 320].
+* [cite_start]**HR System Implementation:** Key role in transitioning to an online performance management system[cite: 321, 322].
 
 ---
 
 ### 🎓 Education
-* **Master of Human Resource Management** (Reading) | [cite_start]*HRMI* (2024 - Present) [cite: 40, 43, 223, 224]
-* **Diploma in Human Resource Management** | [cite_start]*TVTC* (2012) [cite: 45, 47, 226]
+* **Master of Human Resource Management** | [cite_start]*HRMI* (2024 - Present) [cite: 300, 303, 304]
+* **Diploma in Human Resource Management** | [cite_start]*TVTC* (2012) [cite: 305, 307]
 
 ---
 
 <div align="center">
 
-### 📫 Let's Connect
-[cite_start]**Location:** Negombo, Sri Lanka [cite: 1, 241] | [cite_start]**Phone:** +94777547922 [cite: 5, 239]
+### 📫 Contact Information
+[cite_start]**Location:** Negombo, Sri Lanka [cite: 261]
+[cite_start]**Email:** asudhander@gmail.com [cite: 264] | [cite_start]**Phone:** +94777547922 [cite: 265]
 
 </div>
