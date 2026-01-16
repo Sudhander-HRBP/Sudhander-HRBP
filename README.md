@@ -1,41 +1,78 @@
-# Hi there, I'm Sudhander Rajendran 👋 
+<div align="center">
 
-### 🚀 HR Business Partner | Strategic People Operations | Talent Acquisition Specialist
+# Sudhander Rajendran
+### Strategic HR Business Partner | [cite_start]Strategic People Operations [cite: 3, 167]
 
----
-
-### 📊 Professional Summary
-[cite_start]I am a **Strategic HR Business Partner** with over **9 years of experience** [cite: 7] [cite_start]partnering with leadership teams to drive people strategy and organizational development[cite: 7, 8]. [cite_start]I specialize in translating complex business objectives into effective HR initiatives, particularly across **remote and global teams**[cite: 8].
-
-- [cite_start]🔭 Currently: **HR Manager at Alp Consulting Pvt Ltd**[cite: 10, 11, 12].
-- [cite_start]🎓 Education: Currently reading for a **Master of Human Resource Management**[cite: 40, 43, 44].
-- [cite_start]💡 Expertise: Workforce planning, change management, and HR analytics[cite: 54, 55, 56].
-- [cite_start]🏆 Achievement: Developed a process that increased employee retention by **15%**[cite: 60].
+[![Email](https://img.shields.io/badge/Email-asudhander%40gmail.com-blue?style=for-the-badge&logo=gmail)](mailto:asudhander@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com)
 
 ---
 
-### 🛠 Core Competencies & Skills
-| Strategy & Leadership | Operations & Tools | Compliance & Finance |
-| :--- | :--- | :--- |
-| ![BP](https://img.shields.io/badge/HR_Business_Partnering-blue) | ![Analytics](https://img.shields.io/badge/HR_Analytics-green) | ![Policy](https://img.shields.io/badge/Policy_%26_Compliance-red) |
-| ![Stakeholder](https://img.shields.io/badge/Stakeholder_Management-blue) | ![Systems](https://img.shields.io/badge/HRIS_Implementation-green) | ![Payroll](https://img.shields.io/badge/Payroll_Administration-red) |
-| ![Talent](https://img.shields.io/badge/Talent_Management-blue) | ![Workforce](https://img.shields.io/badge/Workforce_Planning-green) | ![Statutory](https://img.shields.io/badge/Statutory_Payments-red) |
+</div>
+
+### 📋 Profile Info
+[cite_start]Strategic HR Business Partner with **9+ years of experience** partnering with leadership teams to drive people strategy, organizational development, and performance outcomes[cite: 7, 8, 174]. [cite_start]Expert in advising senior stakeholders and managing remote/global teams[cite: 8, 172].
 
 ---
 
-### 📈 Professional Impact
-- [cite_start]**Employee Retention:** Successfully boosted retention rates by 15% through a revamped candidate evaluation process[cite: 60].
-- [cite_start]**Digital Transformation:** Played a key role in transitioning to online performance management systems[cite: 61, 62].
-- [cite_start]**Payroll Excellence:** Managed multinational and executive payrolls, ensuring 100% accuracy in statutory letters and fund transfers[cite: 27, 30].
+### 🛠 Skills & Expertise
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <strong>Strategic HR</strong><br>
+      - [cite_start]HR Business Partnering (95%) [cite: 192, 193]<br>
+      - [cite_start]Organizational Development (90%) [cite: 195, 196]<br>
+      - [cite_start]Stakeholder Management (92%) [cite: 197, 198]
+    </td>
+    <td width="33%" valign="top">
+      <strong>Talent Management</strong><br>
+      - Performance Management (93%) [cite: 202, 203]<br>
+      - Employee Engagement (90%) [cite: 204, 205]<br>
+      - Talent Acquisition (87%) [cite: 209, 210]
+    </td>
+    <td width="33%" valign="top">
+      <strong>HR Operations</strong><br>
+      - Policy & Compliance (94%) [cite: 212, 213]<br>
+      - HR Analytics (82%) [cite: 214, 215]<br>
+      - Payroll Management (90%) [cite: 219, 220]
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📫 Connect with Me
-- [cite_start]📧 Email: [asudhander@gmail.com](mailto:asudhander@gmail.com) [cite: 4]
-- [cite_start]📍 Location: Negombo, Sri Lanka [cite: 1, 2]
-- 💼 LinkedIn: [Your LinkedIn Profile Link Here]
+### 💼 Experience
+
+**HR Manager / Talent Acquisition** | [cite_start]*Alp Consulting Pvt Ltd* (2023 - Present) [cite: 10, 11, 12]
+* [cite_start]Partner with senior leaders to align HR strategy with business objectives[cite: 13, 180].
+* [cite_start]Advise on workforce planning and employee engagement[cite: 14, 181].
+* [cite_start]Analyze HR metrics (turnover, retention) to support decision-making[cite: 16, 181].
+
+**Assistant Manager Human Resources** | [cite_start]*Nithyo Infotech* (2020 - 2023) [cite: 17, 18, 19]
+* [cite_start]Supported managers on employee relations and performance improvement plans[cite: 20, 184].
+* [cite_start]Acted as HR advisor for operational leaders across multiple locations[cite: 23, 185].
+
+**Executive HR & Operation** | [cite_start]*DMS Software Engineering* (2017 - 2020) [cite: 24, 25, 26]
+* [cite_start]Managed monthly payroll for multinational and staff accounts[cite: 27, 188].
+* [cite_start]Handled statutory payments (EPF, ETF, APIT) and terminal benefits[cite: 31, 188, 189].
 
 ---
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical" alt="Sudhander's GitHub Stats" />
-</p>
+
+### 🏆 Key Achievements
+* [cite_start]**Employee Retention Award:** Developed a process that led to a **15% increase** in retention rates over two years[cite: 59, 60, 175, 229].
+* [cite_start]**HR System Implementation:** Played a key role in transitioning to an online performance management system[cite: 61, 62, 232].
+
+---
+
+### 🎓 Education
+* **Master of Human Resource Management** (Reading) | [cite_start]*HRMI* (2024 - Present) [cite: 40, 43, 223, 224]
+* **Diploma in Human Resource Management** | [cite_start]*TVTC* (2012) [cite: 45, 47, 226]
+
+---
+
+<div align="center">
+
+### 📫 Let's Connect
+[cite_start]**Location:** Negombo, Sri Lanka [cite: 1, 241] | [cite_start]**Phone:** +94777547922 [cite: 5, 239]
+
+</div>
