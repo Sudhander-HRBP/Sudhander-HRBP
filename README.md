@@ -1,20 +1,26 @@
-# 🚀 Sudhander Rajendran | Strategic HR Business Partner
-**Bridging the gap between Business Goals and People Strategy**
+# Hi there, I'm Sudhander Rajendran 👋 
+### HR Business Partner | Strategic People Operations | Talent Acquisition
 
 ---
 
-### 📈 The Impact (By the Numbers)
-- [cite_start]**15%** Increase in employee retention through a custom-built candidate evaluation process.
-- [cite_start]**9+ Years** of cross-functional experience in HR Operations and Talent Acquisition.
-- [cite_start]**100%** Successful digital transformation of performance management systems[cite: 62].
+> "9+ years of experience aligning people strategy with business objectives across global and remote teams."
 
-### 🛠️ Strategic Toolkit
-| Strategy & Growth | Operations & Data |
-| :--- | :--- |
-| [cite_start]🏗️ Organizational Development [cite: 51] | [cite_start]📊 HR Analytics & ROI  |
-| [cite_start]🤝 Stakeholder Management [cite: 50] | [cite_start]💸 Payroll & Statutory Compliance [cite: 69] |
-| [cite_start]📈 Performance & Talent Management [cite: 52] | [cite_start]🔄 Change Management [cite: 55] |
+### 💫 About Me
+- 🔭 **Current Focus:** HR Manager at Alp Consulting Pvt Ltd, driving organizational development.
+- 🎓 **Education:** Currently reading for a Master of Human Resource Management (HRMI).
+- 📍 **Based In:** Negombo, Sri Lanka (Available for Remote/Global roles).
+- 📈 **Key Result:** Boosted employee retention by **15%** through a new evaluation framework.
 
-### 🎓 Current Focus
-- [cite_start]📖 Currently reading for **Master of Human Resource Management** (HRMI).
-- [cite_start]🌍 Passionate about building high-performing **Remote/Global teams**.
+### 🛠️ Professional Skills
+- **Strategy:** HR Business Partnering, Workforce Planning, Change Management.
+- **Talent:** Performance Management, Employee Engagement, Organizational Development.
+- **Operations:** HR Analytics, Payroll Administration, Statutory Compliance (EPF/ETF).
+
+### 📞 Let's Connect
+- **Mobile:** [+94 777 547 922](tel:+94777547922)
+- **Email:** [asudhander@gmail.com](mailto:asudhander@gmail.com)
+
+---
+<div align="center">
+  <sub>Strategic People Leader | Performance Driven | Digital HR Enthusiast</sub>
+</div>
