@@ -57,6 +57,7 @@
 - 👔 **HR Manager / Talent Acquisition** | Alp Consulting Pvt Ltd *(2023 - Present)*
 - 📈 **Assistant Manager HR** | Nithyo Infotech *(2020 - 2023)*
 - 📑 **Senior Executive HR & Operations** | Quess Crop Lanka *(2017 - 2020)*
+- 📑 **Executive HR & Operations** | DMS Software Engineering *(2013 - 2017)*
 
 ---
 
