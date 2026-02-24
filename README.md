@@ -11,11 +11,11 @@
 ---
 
 ### 👤 Profile Overview
-[cite_start]I am a **Strategic HR Business Partner** with over **9 years of experience** partnering with leadership teams to drive people strategy and performance outcomes[cite: 7]. [cite_start]I specialize in translating business objectives into effective HR initiatives across remote and global teams[cite: 8].
+I am a **Strategic HR Business Partner** with over **9 years of experience** partnering with leadership teams to drive people strategy and performance outcomes. I specialize in translating business objectives into effective HR initiatives across remote and global teams.
 
-- [cite_start]📍 Based in: **Negombo, Sri Lanka** [cite: 1]
-- [cite_start]🎓 Currently Reading: **Master of Human Resource Management** [cite: 41, 44]
-- [cite_start]📧 Contact: **asudhander@gmail.com** [cite: 4]
+- 📍 Based in: **Negombo, Sri Lanka** 
+- 🎓 Currently Reading: **Master of Human Resource Management** 
+- 📧 Contact: **asudhander@gmail.com** 
 
 ---
 
@@ -27,33 +27,33 @@
   <img src="https://img.shields.io/badge/Change_Management-8E44AD?style=for-the-badge&logo=loop&logoColor=white" />
 </p>
 
-* [cite_start]**Strategy:** Workforce Planning, Organizational Development, Policy & Compliance[cite: 52, 55, 58].
-* [cite_start]**Operations:** Performance Management, Employee Engagement, HR Systems Implementation[cite: 53, 54, 62].
+* **Strategy:** Workforce Planning, Organizational Development, Policy & Compliance.
+* **Operations:** Performance Management, Employee Engagement, HR Systems Implementation.
 
 ---
 
 ### 💼 Professional Journey
 
-#### **HR Manager & Talent Acquisition** | [cite_start]Alp Consulting Pvt Ltd [cite: 11, 12]
+#### **HR Manager & Talent Acquisition** | Alp Consulting Pvt Ltd 
 *2023 - Present*
-* [cite_start]Partnering with senior leaders to align HR strategy with business objectives[cite: 13].
-* [cite_start]Advising on organizational development and workforce planning[cite: 14].
+* Partnering with senior leaders to align HR strategy with business objectives.
+* Advising on organizational development and workforce planning.
 
-#### **Assistant Manager Human Resources** | [cite_start]Nithyo Infotech [cite: 18, 19]
+#### **Assistant Manager Human Resources** | Nithyo Infotech 
 *2020 - 2023*
-* [cite_start]Led employee relations and performance improvement plans[cite: 20].
-* [cite_start]Acted as HR advisor for operational leaders across multiple locations[cite: 23].
+* Led employee relations and performance improvement plans.
+* Acted as HR advisor for operational leaders across multiple locations.
 
-#### **Executive HR & Operation** | [cite_start]DMS Software Engineering [cite: 25, 26]
+#### **Executive HR & Operation** | DMS Software Engineering 
 *2017 - 2020*
-* [cite_start]Managed complex payroll for multinational companies and factory staff[cite: 27].
-* [cite_start]Handled statutory payments, terminal benefits, and financial reconciliations[cite: 28, 29].
+* Managed complex payroll for multinational companies and factory staff.
+* Handled statutory payments, terminal benefits, and financial reconciliations.
 
 ---
 
 ### 🏆 Key Achievements
-* [cite_start]**Employee Retention:** Developed a candidate evaluation process that increased retention by **15%** over two years[cite: 60, 61].
-* [cite_start]**Digital Transformation:** Played a key role in transitioning to online performance management systems[cite: 62, 63].
+* **Employee Retention:** Developed a candidate evaluation process that increased retention by **15%** over two years.
+* **Digital Transformation:** Played a key role in transitioning to online performance management systems.
 
 ---
 
