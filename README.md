@@ -1,82 +1,66 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/render?type=waving&color=0077B5&height=250&section=header&text=SUDHANDER%20RAJENDRAN&fontSize=60&animation=fadeIn&fontAlignY=35" width="100%" />
-
-# 🚀 Strategic HR Business Partner | People Operations Leader
-**Driving Organizational Excellence through Data, Strategy, and Talent**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-URL)
-[![Email](https://img.shields.io/badge/Email-asudhander%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asudhander@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Direct_Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/94777547922)
-
----
-
-### 🎯 Executive Summary
-> "Strategic HR Leader with **9+ years of experience** bridging the gap between high-level business goals and people operations. Expert in **scaling remote/global teams**, optimizing **HR ROI**, and leading **Digital Transformations**. Currently pursuing a **Master of Human Resource Management (MHRM)** to drive scalable culture in high-growth organizations."
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=200&section=header&text=Sudhander%20Rajendran&fontSize=70&animation=fadeIn" />
+  
+  <h3>Strategic HR Business Partner | People Operations Specialist</h3>
+  
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=9%2B+Years+of+HR+Excellence;Strategic+Workforce+Planning;Talent+Acquisition+Expert;Organizational+Development" alt="Typing SVG" />
+  </p>
 </div>
 
 ---
 
-### 📊 Strategic Impact & Business ROI
-*To secure high-growth results, I focus on measurable outcomes that impact the bottom line:*
+### 👤 Profile Overview
+[cite_start]I am a **Strategic HR Business Partner** with over **9 years of experience** partnering with leadership teams to drive people strategy and performance outcomes[cite: 7]. [cite_start]I specialize in translating business objectives into effective HR initiatives across remote and global teams[cite: 8].
 
-| Metric | Achievement | Business Value |
-| :--- | :--- | :--- |
-| **Employee Retention** | **+15% YoY** | Significant reduction in turnover & re-hiring costs |
-| **Digital Transformation** | **100% Adoption** | Scaled performance tracking via online HRIS systems |
-| **Payroll Accuracy** | **Zero Error Rate** | Managed multinational payroll with 100% compliance |
-| **Efficiency** | **-30% Cycle Time** | Optimized performance review cycles for faster feedback |
+- [cite_start]📍 Based in: **Negombo, Sri Lanka** [cite: 1]
+- [cite_start]🎓 Currently Reading: **Master of Human Resource Management** [cite: 41, 44]
+- [cite_start]📧 Contact: **asudhander@gmail.com** [cite: 4]
 
 ---
 
-### 🛠️ Specialized Expertise & Tech Stack
+### 🛠️ Expertise & Skills
+<p align="left">
+  <img src="https://img.shields.io/badge/HR_Partnering-0078D4?style=for-the-badge&logo=handshake&logoColor=white" />
+  <img src="https://img.shields.io/badge/Talent_Management-238636?style=for-the-badge&logo=target&logoColor=white" />
+  <img src="https://img.shields.io/badge/HR_Analytics-FF5733?style=for-the-badge&logo=googleanalytics&logoColor=white" />
+  <img src="https://img.shields.io/badge/Change_Management-8E44AD?style=for-the-badge&logo=loop&logoColor=white" />
+</p>
 
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🏢 Strategic Partnering</h4>
-      <img src="https://img.shields.io/badge/HR_Business_Partnering-0077B5?style=flat-square&logo=strategy&logoColor=white" />
-      <img src="https://img.shields.io/badge/Org_Development-0077B5?style=flat-square&logo=org&logoColor=white" />
-      <img src="https://img.shields.io/badge/Workforce_Planning-0077B5?style=flat-square" />
-      <img src="https://img.shields.io/badge/Change_Management-0077B5?style=flat-square" />
-    </td>
-    <td width="50%" valign="top">
-      <h4>⚙️ People Ops & Tech</h4>
-      <img src="https://img.shields.io/badge/HR_Analytics-28A745?style=flat-square&logo=data&logoColor=white" />
-      <img src="https://img.shields.io/badge/Payroll_Admin-28A745?style=flat-square" />
-      <img src="https://img.shields.io/badge/Statutory_Compliance-28A745?style=flat-square" />
-      <img src="https://img.shields.io/badge/HRIS_Expert-28A745?style=flat-square" />
-    </td>
-  </tr>
-</table>
+* [cite_start]**Strategy:** Workforce Planning, Organizational Development, Policy & Compliance[cite: 52, 55, 58].
+* [cite_start]**Operations:** Performance Management, Employee Engagement, HR Systems Implementation[cite: 53, 54, 62].
 
 ---
 
-### 💼 Career Roadmap
-- 👔 **HR Manager / Talent Acquisition** | Nithyo Infotech *(2023 - Present)*
-- 📈 **Assistant Manager HR** | Nithyo Infotech *(2020 - 2023)*
-- 📑 **Senior Executive HR & Operations** | Quess Crop Lanka *(2017 - 2020)*
-- 📑 **Executive HR & Operations** | DMS Software Engineering *(2013 - 2017)*
+### 💼 Professional Journey
+
+#### **HR Manager & Talent Acquisition** | [cite_start]Alp Consulting Pvt Ltd [cite: 11, 12]
+*2023 - Present*
+* [cite_start]Partnering with senior leaders to align HR strategy with business objectives[cite: 13].
+* [cite_start]Advising on organizational development and workforce planning[cite: 14].
+
+#### **Assistant Manager Human Resources** | [cite_start]Nithyo Infotech [cite: 18, 19]
+*2020 - 2023*
+* [cite_start]Led employee relations and performance improvement plans[cite: 20].
+* [cite_start]Acted as HR advisor for operational leaders across multiple locations[cite: 23].
+
+#### **Executive HR & Operation** | [cite_start]DMS Software Engineering [cite: 25, 26]
+*2017 - 2020*
+* [cite_start]Managed complex payroll for multinational companies and factory staff[cite: 27].
+* [cite_start]Handled statutory payments, terminal benefits, and financial reconciliations[cite: 28, 29].
 
 ---
 
-### 🎓 Education & Growth
-- 📖 **Master of Human Resource Management** | *HRMI (Reading)*
-- 📜 **Diploma in HRM** | *Thondaman Vocational Training Centre*
+### 🏆 Key Achievements
+* [cite_start]**Employee Retention:** Developed a candidate evaluation process that increased retention by **15%** over two years[cite: 60, 61].
+* [cite_start]**Digital Transformation:** Played a key role in transitioning to online performance management systems[cite: 62, 63].
 
 ---
 
-### 📊 Professional Insights (GitHub Stats)
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=radical&hide_border=true" height="170px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=radical&hide_border=true" height="170px" />
-</div>
-
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="Sudhander's GitHub Stats" />
+</p>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-  <br>
-  <b>📞 Contact: +94 777 547 922 | 📧 asudhander@gmail.com</b>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=100&section=footer" />
 </div>
